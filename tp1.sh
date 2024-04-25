@@ -10,7 +10,7 @@ find $in -type f -name "*.*" | while read file;
     while [ -f "$source" ]; do
       n_name="${name%.*}_$count.${name##*.}"
       source="$out/$n_name"
-      ((count+=1))
+      count+=1
     done
   fi
   
