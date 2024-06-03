@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06f01655-a733-405e-9761-726959fa053e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../tz1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tz1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tz1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tz1/.idea/tz1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tz1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test2.txt" afterDir="false" />
-    </list>
+    <list default="true" id="06f01655-a733-405e-9761-726959fa053e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
