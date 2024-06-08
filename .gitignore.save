@@ -1,0 +1,16 @@
+.DS_Store
+.cache/
+*.log
+bin/
+obj/
+*.tmp
+*.temp
+*.swp
+.vscode/
+.idea/
+node_modules/
+vendor/
+*.iml
+*.user
+*.suo
+*.
